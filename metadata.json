@@ -1,0 +1,15 @@
+{
+  "name": "manas-package",
+  "version": "0.1.0",
+  "author": "manas",
+  "summary": "package management",
+  "license": "Apache-2.0",
+  "source": "git@github.com:manasrb/package.git",
+  "project_page": "https://github.com/manasrb/package.git",
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
